@@ -31,7 +31,11 @@ PassGenie is a **Tkinter-based password generator** that creates strong, random 
 4. **Delete all** stored passwords when necessary.
 
 ## Screenshots 📸
-*(Add screenshots here if available)*
+### Main UI
+![Main Screen](screenshots/main_ui.png)
+
+### Password History
+![History](screenshots/history.png)
 
 ## License 📜
 This project is licensed under the **MIT License**.
