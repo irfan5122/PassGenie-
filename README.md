@@ -15,11 +15,7 @@ PassGenie is a **Tkinter-based password generator** that creates strong, random 
    git clone https://github.com/yourusername/PassGenie.git
    cd PassGenie
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the application:
+2. Run the application:
    ```bash
    python passgenie.py
    ```
