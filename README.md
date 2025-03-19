@@ -40,7 +40,7 @@ This project is licensed under the **MIT License**.
 Feel free to submit **issues** or **pull requests** to improve PassGenie!
 
 ## Contact 📬
-For questions or feedback, reach out at **your.email@example.com**
+For questions or feedback, reach out at **irfan512289747@gmail.com**
 
 🔐 **PassGenie – Simple, Secure, Smart!** 🚀
 
